@@ -16,3 +16,6 @@ We always have dreams and aspires to acheive and with big dreams come big challe
   
 3- **Turntables**
   - *When you face criticism use it to know where your weakness was and turn it to a quality of yours.*
+
+
+![Mind](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/2015/11/growth-mindset.png)
