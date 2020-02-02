@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+#Maintain a Growth Mindset
+###A Self Reminder
 
-You can use the [editor on GitHub](https://github.com/Tommalieh/Coding-Life/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+#####Why?!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We always have dreams and aspires to acheive and with big dreams come big challenges and sometimes you feel like you can't keep going and you feel like giving up, but if you build and maintain a growth mindset you'll be able to overcome these challenges and jump to higher level.
 
-### Markdown
+How?!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Tommalieh/Coding-Life/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1- **Do it one step at a time**
+  - *Whenever you're facing a challenging topic try to part it into smaller tasks where it becomes easier.*
+  
+2- **Don't giveup**
+  - *Keep pushing yourself beyond your limits.*
+  
+3- **Turntables**
+  - *When you face criticism use it to know where your weakness was and turn it to a quality of yours.*
