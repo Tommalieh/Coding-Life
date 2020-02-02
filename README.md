@@ -8,13 +8,13 @@ We always have dreams and aspires to acheive and with big dreams come big challe
 #### How?!
 
 
-1. **Do it one step at a time**
+1- **Do it one step at a time**
    - *Whenever you're facing a challenging topic try to part it into smaller tasks where it becomes easier.*
   
-2. **Don't giveup**
+2- **Don't giveup**
    - *Keep pushing yourself beyond your limits.*
   
-3. **Turntables**
+3- **Turntables**
    - *When you face criticism use it to know where your weakness was and turn it to a quality of yours.*
 
 
